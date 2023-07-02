@@ -1,4 +1,5 @@
-/*By:- Ali Ashraf
+/*
+*By:- Ali Ashraf
 *aliashrafali0155239@gmail.com
 */ 
 #include <stdio.h>
